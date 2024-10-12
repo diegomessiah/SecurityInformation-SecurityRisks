@@ -30,6 +30,11 @@
 - **Practical Example:** If a vulnerability is found in software, not only should the software be patched, but the root cause should also be identified and addressed to prevent future occurrences.
 - **Implementation Tip:** Establish a clear incident response process that includes identifying the cause, fixing it, and validating the fix through testing.
 
+## 7. Use Secure Defaults
+- **What It Means:** Systems should be configured with security in mind right from the start, using secure settings as the default.
+- **Practical Example:** When deploying a new web application, ensure that all configurations prioritize security—such as disabling default accounts, enforcing strong password policies, and enabling logging and monitoring by default.
+- **Implementation Tip:** Create a checklist of secure settings that must be applied to all systems during the deployment process. Regularly review and update this checklist to align with current security best practices.
+
 ---
 
 By applying these OWASP Security Principles in practical scenarios, security analysts can significantly enhance their organization's security posture and reduce the risk of breaches.
