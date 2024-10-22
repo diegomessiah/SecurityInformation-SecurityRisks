@@ -73,6 +73,4 @@ SIEM dashboards help organizations maintain their **security posture** by provid
 
 We've examined how SIEM dashboards are used to provide comprehensive security data and metrics that help security analysts protect organizations. In the next chapter, we'll explore some common SIEM tools used in the cybersecurity industry.
 
-Stay tuned for the next section!
-
 ```
