@@ -1,4 +1,4 @@
-# Chapter: Analyzing Log Data as a Security Analyst
+# Chapter: Logs and SIEM tools
 
 ## 1. Introduction
 
